@@ -23,8 +23,6 @@ title = "Joshua Ross"
    links = [
      { email = "mailto:contact@rossjm.dev" },
      { github = "https://github.com/JershBytes" },
-     { linkedin = "https://linkedin.com/in/joshuamalcom" },
-     { reddit = "https://reddit.com/user/notawesomejosh" },
      { steam = "https://steamcommunity.com/id/yaboijersh/" },
      { x-twitter = "https://x.com/JershBytes" },
   ]
