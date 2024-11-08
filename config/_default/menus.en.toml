@@ -25,14 +25,9 @@
   weight = 30
 
 [[main]]
-  name = "Scripts"
-  parent ="Links"
-  url = "https://rossjm.dev/scripts/"
-
-[[main]]
   name = "Learning Barn"
   parent ="Links"
-  url = "https://rossjm.dev/learninghub/"
+  url = "https://rossjm.dev/learnzone/"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
