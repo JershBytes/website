@@ -25,9 +25,9 @@
   weight = 30
 
 [[main]]
-  name = "Docs"
+  name = "Wiki"
   parent ="Links"
-  url = "https://docs.rossjm.dev"
+  url = "https://wiki.rossjm.dev"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
